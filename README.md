@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# lifestyle
+# Lifestyle
 
 <!-- TABLE OF CONTENTS -->
 <details>
